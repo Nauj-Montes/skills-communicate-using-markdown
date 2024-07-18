@@ -10,3 +10,7 @@ i = i + 1;
 return 0;
 }
 ```
+
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
